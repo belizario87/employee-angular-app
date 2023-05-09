@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-EmployeesApplication<employees>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.github.belizario87.employees.EmployeesApplication",
+            "projectName": "employees",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
